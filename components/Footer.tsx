@@ -7,7 +7,7 @@ export default function Footer() {
     <footer>
       <div className="footer-logo">
         <Image
-          src="https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/logo.png"
+          src="https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/logo.webp"
           alt="Cluck & Stack"
           width={120}
           height={28}

@@ -92,7 +92,7 @@ export default function LTOSection() {
 
       <div className="lto-right">
         <Image
-          src="https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/mango.png"
+          src="https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/mango.webp"
           alt="Spicy Mango Stack"
           fill
           style={{ objectFit: 'cover', objectPosition: 'center' }}
