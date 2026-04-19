@@ -29,6 +29,9 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="preconnect" href="https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev" />
+      </head>
       <body className={`${bebasNeue.variable} ${barlowCondensed.variable} ${barlow.variable}`}>
         <CartProvider>{children}</CartProvider>
       </body>

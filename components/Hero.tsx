@@ -36,11 +36,12 @@ export default function Hero() {
         <div className="hero-floater crumb3" />
         <Image
           className="hero-plate"
-          src="https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/clucknwaffle.png"
+          src="https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/clucknwaffle.webp"
           alt="Chicken and Waffles"
           width={600}
           height={600}
           priority
+          fetchPriority="high"
         />
         <div className="steam">
           <div className="steam-wisp" />

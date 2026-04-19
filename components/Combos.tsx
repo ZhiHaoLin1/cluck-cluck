@@ -47,7 +47,7 @@ const COMBOS: Combo[] = [
   {
     num: '4',
     tag: '👨‍👩‍👧 Family',
-    iconImg: 'https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/chickenbucket.png',
+    iconImg: 'https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/chickenbucket.webp',
     name: 'FAMILY PACK',
     desc: '8-piece chicken, 4 waffles, 3 sides, sauce sampler. Feeds the whole crew.',
     includes: ['8 Pc Chicken', '4 Waffles', '3 Sides', '4 Drinks'],
