@@ -27,6 +27,21 @@ export default function Hero() {
         </div>
       </div>
 
+      {/* Mobile-only image — no animations, no floaters, plain */}
+      <div className="hero-mobile-img">
+        <Image
+          src="https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/clucknwaffle.webp"
+          alt="Chicken and Waffles"
+          width={400}
+          height={400}
+          priority
+          fetchPriority="high"
+          sizes="45vw"
+          style={{ width: '100%', height: 'auto', display: 'block' }}
+        />
+      </div>
+
+      {/* Desktop-only image — full animated version */}
       <div className="hero-right">
         <div className="hero-glow-spill" />
         <div className="hero-floater drip">🍯</div>
@@ -42,6 +57,7 @@ export default function Hero() {
           height={600}
           priority
           fetchPriority="high"
+          sizes="50vw"
         />
         <div className="steam">
           <div className="steam-wisp" />
