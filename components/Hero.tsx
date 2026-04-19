@@ -53,8 +53,8 @@ export default function Hero() {
           className="hero-plate"
           src="https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/clucknwaffle.webp"
           alt="Chicken and Waffles"
-          width={600}
-          height={600}
+          width={750}
+          height={750}
           priority
           fetchPriority="high"
           sizes="50vw"
