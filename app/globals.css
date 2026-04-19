@@ -346,7 +346,7 @@ nav {
 }
 .combo-card:hover { background: #222; border-color: var(--yellow); }
 .combo-card.featured {
-  background-image: url('https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/thighstack.webp');
+  background-image: url('https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/thighstack.png');
   background-size: 95%;
   background-position: center 50%;
   grid-row: span 2;
@@ -496,7 +496,7 @@ nav {
 .upsell-opt-price { font-family: var(--font-bebas), sans-serif; font-size: 16px; color: rgba(255,255,255,0.7); letter-spacing: 1px; }
 .upsell-texture {
   position: absolute; inset: 0;
-  background-image: url('https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/thighstack.webp');
+  background-image: url('https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/thighstack.png');
   background-size: cover;
   background-position: center;
   opacity: 0.08;
@@ -766,7 +766,7 @@ footer {
 footer::before {
   content: '';
   position: absolute; inset: 0;
-  background-image: url('https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/thighstack.webp');
+  background-image: url('https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/thighstack.png');
   background-size: cover; background-position: top center;
   opacity: 0.06; z-index: 0;
 }

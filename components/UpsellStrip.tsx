@@ -7,7 +7,7 @@ const SIDES = [
   { icon: '🍟', name: 'Fries', price: '+$0' },
   { icon: '🥗', name: 'Slaw', price: '+$0' },
   {
-    iconImg: 'https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/macncheeselogo.webp',
+    iconImg: 'https://pub-ec2cb0892de943b0b34452bdaf3b4997.r2.dev/macncheeselogo.png',
     name: 'Mac + Cheese',
     price: '+$1',
   },
